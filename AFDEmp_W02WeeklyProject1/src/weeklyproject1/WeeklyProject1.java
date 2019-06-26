@@ -5,7 +5,7 @@ package weeklyproject1;
 
 import java.util.Scanner;
 /**
- * @author Evangelos Vergis
+ * @author Evangelos Vergis//
  *
  */
 public class WeeklyProject1 {
